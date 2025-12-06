@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Database",
+    "\\resources",
+    "\\StarTED.System",
+    "\\StarTED.Web",
+    "\\StarTED.Web\\Components",
+    "\\StarTED.Web\\Components\\Layout",
+    "\\StarTED.Web\\Components\\Pages",
+    "\\StarTED.Web\\Properties",
+    "\\StarTED.Web\\wwwroot"
+  ],
+  "SelectedNode": "\\StarTED.Web\\StarTED.Web.sln",
+  "PreviewInSolutionExplorer": false
+}
